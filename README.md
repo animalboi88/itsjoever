@@ -13,4 +13,5 @@
 ### misc
 copy the bookmark. now. <br>
 copied devhaxx code, not affiliated with devtech at all.<br>
-star if you fork 
+star if you fork <br>
+for messages and inquires, make a discussion or something
